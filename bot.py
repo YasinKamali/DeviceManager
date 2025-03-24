@@ -4,6 +4,8 @@ from pyrogram import Client, raw
 from pyrogram.raw import functions
 from pyrogram.errors import FreshResetAuthorisationForbidden
 
+print("For more information and the source code, visit the GitHub repository: https://github.com/YasinKamali")
+
 # Initialize colorama for colored terminal output
 init(autoreset=True)
 
